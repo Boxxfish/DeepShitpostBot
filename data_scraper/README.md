@@ -1,0 +1,1 @@
+When using the scraper, put all data scraped in /data and move it to the Drive folder when done.
